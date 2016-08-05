@@ -4,5 +4,6 @@ class numOut
   {
     System.out.println("I´m the magic number");
     System.out.println("Now I´m changed");
+    System.out.println("Another change");
   }
 }
